@@ -1,6 +1,4 @@
 # ********************************
-# I no longer have that laptop so unfortunately I can no longer offer support for this repo
-# This repo will archived and all open issues are closed
 # The current state of this repo is 100% compatible with macOS Big Sur & previous versions
 # ********************************
 
